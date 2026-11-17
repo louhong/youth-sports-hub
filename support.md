@@ -3,7 +3,7 @@
 Questions, problems or ideas? We'd love to hear from you.
 
 ## Contact us
-- **Email:** [SUPPORT EMAIL]
+- **Email:** louhong@gmail.com
 - **In the app:** Profile › Help us improve › Send feedback
 
 We usually reply within two business days.
