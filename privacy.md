@@ -1,6 +1,6 @@
 # Youth Sports Hub Privacy Policy
 
-_Last updated: November 17, 2026_
+_Last updated: November 21, 2026_
 
 Youth Sports Hub puts your kids' games and practices on one family schedule. This policy says, in plain language, what we keep, why, who else sees it, and how to delete it.
 
@@ -18,8 +18,10 @@ Youth Sports Hub is an independent app. To reach us, send a message from the app
 - **Your RSVP answers**, to show what you've answered.
 - **Short field tips you write**, shared with other parents who go to the same field.
 - **Feedback and app requests you send us**, with the app and iOS version, to fix problems and decide what to build next.
+- **Usage stats:** which screens you open and which features you use (for example "opened the calendar" or "asked a question"), with the time and app version, to learn what's useful. Never the content: no names, schedules, questions or messages. Kept 90 days.
+- **Crash reports:** when the app crashes or freezes, Apple's built-in crash reporting gives us a technical report (where in our code it happened, the app and iOS version), to fix it. Kept 30 days.
 
-We don't collect your contacts, photos, health data or browsing history, and we don't use analytics or advertising tools.
+You can turn off usage stats and crash reports anytime at Profile › Share usage and crash reports. They stay with us: we use no third-party analytics or advertising tools, and we don't collect your contacts, photos, health data or browsing history.
 
 **Location:** the app uses your location only on your phone, to estimate drive time and "Leave by" times. It's never sent to us. Apple Maps receives it when you ask for directions or drive time, under Apple's privacy policy.
 
@@ -41,7 +43,7 @@ Tips you write about a field (parking, which entrance) are shown to other parent
 
 ## Keeping and deleting your data
 - We keep your data while you have an account.
-- **Delete your account** in the app at Profile › Delete account. This permanently deletes your account and everything in it: kids, sources and connections, events, RSVPs, feedback and your tips. Server logs, which hold no schedule details, are deleted after 7 days.
+- **Delete your account** in the app at Profile › Delete account. This permanently deletes your account and everything in it: kids, sources and connections, events, RSVPs, feedback, usage stats, crash reports and your tips. Server logs, which hold no schedule details, are deleted after 7 days.
 - **Your subscribable calendar link** can be reset anytime in Profile, which turns off the old link.
 - To get a copy of your data, or with any question about it, send us a message from the app or use our support page.
 
